@@ -8,7 +8,8 @@ gem 'pg'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'devise'
-
+# gem add uglifier
+gem 'uglifier'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 gem 'sass-rails'
